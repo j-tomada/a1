@@ -12,8 +12,7 @@
 			}
 	};
 
-	int main()
-	{
+	int main() {
 		int mainVar = 0;
 		cout << "The old val is " << mainVar << endl;
 		Foo thisFoo;
